@@ -5,9 +5,10 @@ We want to make it be indenpendent from a deep learning framework, so one can us
 
 Things to do:
 - Single-Queue Decoding (https://arxiv.org/abs/1707.01830)
-- MBR Decoding
-- REINFORCE-based score function (continous actions)
-- Actor-Critic based score function
+- Auto hyperparameter tuning with Bayesian Optimization
+- MBR-based decoding given evidences
+- REINFORCE-based score enhancement (continous actions)
+- Actor-Critic based score enhancement
 
 This repository will be updated soon after code refactoring.
 
